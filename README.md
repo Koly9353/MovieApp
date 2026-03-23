@@ -21,4 +21,4 @@ A simple Android Movie App built using Java and RecyclerView.
 - `java/` → Logic
 
 ## 👨‍💻 Developer
-Your Name
+Mst Kamrunnahar Koly
